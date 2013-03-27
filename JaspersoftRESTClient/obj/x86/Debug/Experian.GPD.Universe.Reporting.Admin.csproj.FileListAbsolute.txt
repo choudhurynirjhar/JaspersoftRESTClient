@@ -1,0 +1,7 @@
+c:\users\b01672a\documents\visual studio 2010\Projects\Experian.GPD.Universe.Reporting.Admin\Experian.GPD.Universe.Reporting.Admin\bin\Debug\Experian.GPD.Universe.Reporting.Admin.exe
+c:\users\b01672a\documents\visual studio 2010\Projects\Experian.GPD.Universe.Reporting.Admin\Experian.GPD.Universe.Reporting.Admin\bin\Debug\Experian.GPD.Universe.Reporting.Admin.pdb
+c:\users\b01672a\documents\visual studio 2010\Projects\Experian.GPD.Universe.Reporting.Admin\Experian.GPD.Universe.Reporting.Admin\obj\x86\Debug\Experian.GPD.Universe.Reporting.Admin.exe
+c:\users\b01672a\documents\visual studio 2010\Projects\Experian.GPD.Universe.Reporting.Admin\Experian.GPD.Universe.Reporting.Admin\obj\x86\Debug\Experian.GPD.Universe.Reporting.Admin.pdb
+C:\Users\b01672a\Documents\Visual Studio 2010\Projects\Experian.GPD.Universe.Reporting.Admin\Experian.GPD.Universe.Reporting.Admin\obj\x86\Debug\Experian.GPD.Universe.Reporting.Admin.csprojResolveAssemblyReference.cache
+C:\Users\b01672a\JaspersoftRESTClient\JaspersoftRESTClient\Experian.GPD.Universe.Reporting.Admin\obj\x86\Debug\Experian.GPD.Universe.Reporting.Admin.exe
+C:\Users\b01672a\JaspersoftRESTClient\JaspersoftRESTClient\Experian.GPD.Universe.Reporting.Admin\obj\x86\Debug\Experian.GPD.Universe.Reporting.Admin.pdb

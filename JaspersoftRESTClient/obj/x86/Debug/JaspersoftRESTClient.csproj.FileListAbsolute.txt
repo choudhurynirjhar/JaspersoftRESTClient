@@ -1,0 +1,8 @@
+C:\Users\b01672a\JaspersoftRESTClient\JaspersoftRESTClient\Experian.GPD.Universe.Reporting.Admin\bin\Debug\JaspersoftRESTClient.exe
+C:\Users\b01672a\JaspersoftRESTClient\JaspersoftRESTClient\Experian.GPD.Universe.Reporting.Admin\bin\Debug\JaspersoftRESTClient.pdb
+C:\Users\b01672a\JaspersoftRESTClient\JaspersoftRESTClient\Experian.GPD.Universe.Reporting.Admin\obj\x86\Debug\JaspersoftRESTClient.exe
+C:\Users\b01672a\JaspersoftRESTClient\JaspersoftRESTClient\Experian.GPD.Universe.Reporting.Admin\obj\x86\Debug\JaspersoftRESTClient.pdb
+C:\Users\b01672a\JaspersoftRESTClient\JaspersoftRESTClient\obj\x86\Debug\JaspersoftRESTClient.exe
+C:\Users\b01672a\JaspersoftRESTClient\JaspersoftRESTClient\obj\x86\Debug\JaspersoftRESTClient.pdb
+C:\Users\b01672a\JaspersoftRESTClient\JaspersoftRESTClient\bin\Debug\JaspersoftRESTClient.exe
+C:\Users\b01672a\JaspersoftRESTClient\JaspersoftRESTClient\bin\Debug\JaspersoftRESTClient.pdb
